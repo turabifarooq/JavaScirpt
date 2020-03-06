@@ -1,0 +1,10 @@
+Yahan batay jayga k variable k rules kiya hain konsa name variable bn skta hai konsa nahi 
+1.variables ko quotes me nh rkh skty.
+2.variables number nh ho skta na hi number se start hoga.
+3.variable aesa name nh ho jo javascript ka keyword ho jaise alert var.
+4.variable k mid me space nh hoga.
+5.variable name sirf letters , number, dollar signs aur underscores ho skta hai.
+6.variable agr che keyword nh ho skta mgr keyword k sath kuch mila dya jaye toh variable bn skta hai jaise Myvar.
+7.agr variable lowercase hai ap alert me ya kaheen bhi ap variable capital likhen toh show nh krega.
+8.camelCase ye hai k variable ka pehla letter small hoga aur agr apka variable 2 ya 3 words se mil kr bana hai toh
+  her nae word ka first letter bara hoga.
