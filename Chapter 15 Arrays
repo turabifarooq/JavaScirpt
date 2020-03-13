@@ -1,0 +1,16 @@
+isko likhne ka tareeqa ye hai k var aur variable likhny k bad [] square brackets laga kr 
+string me name likhyngy ya , qoma laga kr dusra krengy phr dubara string me likhyngy.
+aur isme 5 keyword use ho skty hain
+1.push
+2.pop
+3.shift
+4.unshift
+5.splice
+
+push ka kam ye hai k akhir me aik word laga dya jaye
+pop ka matlab akhir se remove kr dya jaye
+shift ka matlab ye hai k shuru me remove kr dya jaye
+unshift ka kam ye hai k shuru mein barha dya jaye
+splice ko ikhny ka tareeqa ye hai k pehly () brackets lagaye jayngy phr woh num likhnygy jahan hamien koi value add
+krni hai phr , daal kr wo counting likhyngy k jitny humien us value k bad delete krni hai
+usky bad string me woh value likhyngy jo humien show krwani hai
